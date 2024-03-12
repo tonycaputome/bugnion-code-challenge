@@ -1,2 +1,1 @@
-# b-code-challenge
-Created with CodeSandbox
+### Code challenge for Andrea

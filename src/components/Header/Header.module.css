@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+  min-height: 60px;
+}
